@@ -16,3 +16,13 @@ a: visited{
 a:hover{
     color: darkgreen;
 }
+div{
+color: aquamarine;
+    text-decoration: none;
+    font-size: 30pt;
+    
+    width:100%;
+    background-color: fuchsia;
+    
+    
+}
