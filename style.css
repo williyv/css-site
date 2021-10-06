@@ -23,6 +23,14 @@ color: aquamarine;
     
     width:100%;
     background-color: fuchsia;
-    
-    
 }
+    
+    div.header{
+    width:   100%;
+        background-color: darkviolet;}
+div.left{}
+div.right{}
+div.footer{}
+ 
+
+
